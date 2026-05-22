@@ -1,0 +1,16 @@
+# Base de datos
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+pgvector==0.2.4
+
+# Kafka
+kafka-python==2.0.2
+
+# LLM y RAG
+langchain==0.1.0
+langchain-community==0.0.10
+openai==1.6.1
+
+# Utilidades
+python-dotenv==1.0.0
+loguru==0.7.2
